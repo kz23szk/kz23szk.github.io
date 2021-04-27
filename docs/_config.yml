@@ -1,4 +1,4 @@
 theme: jekyll-theme-minimal
 title: whoami
-logo: [icon.png]
+logo: ./icon.png
 description: server side engineer
