@@ -1,3 +1,3 @@
-theme: jekyll-theme-minimal
-lang: ja-JP
-title: kz23szkとは？
+markdown: redcarpet
+redcarpet:
+  extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "strikethrough", "superscript"]
